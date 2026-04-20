@@ -1,0 +1,15 @@
+{
+  "name": "anthropic-cheatsheet",
+  "version": "1.0.0",
+  "description": "Auto-updating cheat sheet for Anthropic's products and features",
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update.js",
+    "scrape": "node scripts/scrape.js",
+    "summarize": "node scripts/summarize.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.30.0",
+    "node-html-parser": "^6.1.13"
+  }
+}

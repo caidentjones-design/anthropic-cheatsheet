@@ -1,0 +1,65 @@
+site_name: Anthropic Cheat Sheet
+site_description: A living reference to every Anthropic product, feature, and tool
+site_author: Caiden Jones
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - What's new: whats-new.md
+  - Products:
+    - Claude.ai: products/claude-ai.md
+    - Claude Code: products/claude-code.md
+    - Claude for Chrome: products/claude-for-chrome.md
+    - Claude for Excel: products/claude-for-excel.md
+    - Cowork: products/cowork.md
+  - Developer platform:
+    - API Overview: developer-platform/api-overview.md
+    - Agent SDK: developer-platform/agent-sdk.md
+    - Tool Use: developer-platform/tool-use.md
+    - MCP: developer-platform/mcp.md
+    - Batch API: developer-platform/batch-api.md
+    - Prompt Caching: developer-platform/prompt-caching.md
+    - Files API: developer-platform/files-api.md
+  - Models:
+    - Pricing: models/pricing.md
+    - Models Overview: models/models-overview.md
+    - Context Windows: models/context-windows.md
+  - Features:
+    - Artifacts: features/artifacts.md
+    - Projects: features/projects.md
+    - Memory: features/memory.md
+    - Skills: features/skills.md
+  - Safety:
+    - Usage Policies: safety/usage-policies.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+docs_dir: docs

@@ -1,0 +1,130 @@
+{
+  "sources": [
+    {
+      "slug": "claude-ai",
+      "category": "products",
+      "name": "Claude.ai",
+      "url": "https://www.claude.com/claude"
+    },
+    {
+      "slug": "claude-code",
+      "category": "products",
+      "name": "Claude Code",
+      "url": "https://www.claude.com/product/claude-code"
+    },
+    {
+      "slug": "claude-for-chrome",
+      "category": "products",
+      "name": "Claude for Chrome",
+      "url": "https://www.claude.com/claude-for-chrome"
+    },
+    {
+      "slug": "claude-for-excel",
+      "category": "products",
+      "name": "Claude for Excel",
+      "url": "https://www.claude.com/claude-for-excel"
+    },
+    {
+      "slug": "cowork",
+      "category": "products",
+      "name": "Cowork",
+      "url": "https://www.claude.com/cowork"
+    },
+    {
+      "slug": "api-overview",
+      "category": "developer-platform",
+      "name": "Claude API Overview",
+      "url": "https://docs.claude.com/en/docs/intro"
+    },
+    {
+      "slug": "agent-sdk",
+      "category": "developer-platform",
+      "name": "Agent SDK",
+      "url": "https://docs.claude.com/en/api/agent-sdk/overview"
+    },
+    {
+      "slug": "tool-use",
+      "category": "developer-platform",
+      "name": "Tool Use",
+      "url": "https://docs.claude.com/en/docs/agents-and-tools/tool-use/overview"
+    },
+    {
+      "slug": "mcp",
+      "category": "developer-platform",
+      "name": "Model Context Protocol (MCP)",
+      "url": "https://docs.claude.com/en/docs/agents-and-tools/mcp"
+    },
+    {
+      "slug": "batch-api",
+      "category": "developer-platform",
+      "name": "Message Batches",
+      "url": "https://docs.claude.com/en/docs/build-with-claude/batch-processing"
+    },
+    {
+      "slug": "prompt-caching",
+      "category": "developer-platform",
+      "name": "Prompt Caching",
+      "url": "https://docs.claude.com/en/docs/build-with-claude/prompt-caching"
+    },
+    {
+      "slug": "files-api",
+      "category": "developer-platform",
+      "name": "Files API",
+      "url": "https://docs.claude.com/en/docs/build-with-claude/files"
+    },
+    {
+      "slug": "pricing",
+      "category": "models",
+      "name": "Pricing and Models",
+      "url": "https://docs.claude.com/en/docs/about-claude/pricing"
+    },
+    {
+      "slug": "models-overview",
+      "category": "models",
+      "name": "Models Overview",
+      "url": "https://docs.claude.com/en/docs/about-claude/models/overview"
+    },
+    {
+      "slug": "context-windows",
+      "category": "models",
+      "name": "Context Windows",
+      "url": "https://docs.claude.com/en/docs/build-with-claude/context-windows"
+    },
+    {
+      "slug": "artifacts",
+      "category": "features",
+      "name": "Artifacts",
+      "url": "https://support.claude.com/en/articles/9487310-what-are-artifacts-and-how-do-i-use-them"
+    },
+    {
+      "slug": "projects",
+      "category": "features",
+      "name": "Projects",
+      "url": "https://support.claude.com/en/articles/9517075-what-are-projects"
+    },
+    {
+      "slug": "memory",
+      "category": "features",
+      "name": "Memory",
+      "url": "https://support.claude.com/en/articles/11136287-how-memory-works-on-claude-ai"
+    },
+    {
+      "slug": "skills",
+      "category": "features",
+      "name": "Skills",
+      "url": "https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview"
+    },
+    {
+      "slug": "usage-policies",
+      "category": "safety",
+      "name": "Usage Policies",
+      "url": "https://www.anthropic.com/legal/aup"
+    },
+    {
+      "slug": "news",
+      "category": "_news",
+      "name": "Anthropic News Index",
+      "url": "https://www.anthropic.com/news"
+    }
+  ]
+}
