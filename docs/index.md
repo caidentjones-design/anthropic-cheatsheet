@@ -2,7 +2,7 @@
 
 A living reference to every Anthropic product, feature, and tool. Auto-updated weekly.
 
-**Last run:** 2026-05-11
+**Last run:** 2026-05-18
 
 [What's new from Anthropic](whats-new.md)
 
